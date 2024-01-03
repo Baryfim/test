@@ -1,0 +1,52 @@
+.PostBlock {
+    width: 390px;
+    min-height: 500px;
+    background-color: #fff;
+    margin: 40px 0;
+}
+
+.HeaderPost {
+    width: 100%;
+    height: 50px;
+    border-bottom: 1px solid #c2c2c2;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10px;
+}
+
+.Avatar {
+    margin-left: 10px;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.AvatarInner {
+    width: 30px;
+    height: 30px;
+    background: linear-gradient(103deg, rgba(255,227,210,1) 0%, rgba(224,182,233,1) 15%, rgba(255,227,210,1) 56%, rgba(106,20,95,0.6796919451374299) 100%);
+    border-radius: 50%;
+}
+
+.HeaderPost h2{
+    font-weight: 500;
+}
+
+.gallery__item {
+    width: 390px;
+}
+
+.Description {
+    width: 390px;
+    min-height: 100px;
+}
+
+.DescriptionContent {
+    width: 350px;
+    margin: 0 auto;
+    padding: 15px 0;
+}
+
